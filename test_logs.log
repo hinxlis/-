@@ -1,0 +1,210 @@
+2025-08-24 18:45:55,611 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-08-24 18:48:54,086 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-08-31 18:21:02,786 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-08-31 18:26:34,417 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-08-31 19:17:20,903 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-08-31 19:21:11,333 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 12:39:06,163 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 12:46:42,434 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 12:50:02,364 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 12:52:32,443 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:33:42,733 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:34:26,854 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:35:14,866 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:37:33,623 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:45:59,685 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:46:02,235 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:03,206 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:04,231 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:05,274 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:34,680 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:46:37,210 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:38,221 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:39,219 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:46:40,211 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:47:24,692 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:47:27,234 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:47:28,218 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:47:29,228 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:47:30,248 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:13,608 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:49:16,120 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:16,667 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:17,151 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:17,618 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:17,694 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:18,164 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:18,607 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:18,635 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:18,722 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:19,178 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:19,627 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:19,644 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:19,669 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:19,725 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:20,627 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:20,658 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:20,675 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:20,686 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:21,609 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:21,642 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:21,659 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:21,674 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:22,588 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:22,634 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:22,669 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:22,684 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:23,615 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:23,650 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:23,667 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:23,674 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:24,604 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:24,678 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:24,694 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:24,730 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:25,595 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:25,643 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:25,658 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:25,668 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:26,580 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:26,642 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:26,658 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:26,676 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:27,612 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:27,662 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:27,676 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:27,683 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:28,598 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:28,630 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:28,645 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:28,660 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:29,599 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:29,647 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:29,661 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:29,683 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:30,600 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:30,647 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:30,663 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:30,672 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:31,649 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:31,659 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:31,668 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:32,658 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:32,668 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:33,580 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:33,659 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:34,112 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:34,638 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:35,075 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:35,145 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:35,638 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:36,082 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:36,119 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:36,169 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:36,686 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:37,057 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:37,147 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:37,160 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:37,227 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:38,069 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:38,130 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:38,140 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:38,180 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:39,054 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:39,114 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:39,165 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:39,181 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:40,128 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:40,183 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:40,199 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:40,240 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:41,117 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:41,162 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:41,193 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:41,222 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:42,061 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:42,141 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:42,155 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:42,186 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:43,067 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:43,133 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:43,142 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:43,184 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:44,093 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:44,135 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:44,147 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:44,184 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:45,056 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:45,100 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:45,114 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:45,175 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:46,074 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:46,106 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:46,120 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:46,158 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:47,039 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:47,101 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:47,120 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:47,147 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:48,082 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:48,143 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:48,159 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:48,199 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:49,088 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:49,126 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:49,157 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:49,163 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:50,104 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:50,121 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:50,154 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:51,122 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:51,169 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:52,022 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:52,183 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:52,564 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:53,130 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:53,520 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:53,653 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:54,100 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:54,532 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:54,633 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:54,644 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:55,152 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:55,539 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:55,600 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:55,631 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:55,693 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:56,507 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:56,623 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:56,633 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:56,657 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:57,552 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:57,637 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:57,689 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:57,703 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:58,547 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:58,604 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:58,667 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:58,673 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:59,549 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:59,596 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:59,639 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:49:59,670 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:00,532 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:00,599 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:00,649 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:00,665 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:01,530 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:01,595 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:01,622 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:01,639 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:02,515 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:02,568 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:02,601 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:02,631 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:03,514 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:03,581 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:03,600 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:50:03,634 WARNING: Assertion error: text pattern {param_to_check} was not found in response body!
+2025-09-09 14:55:37,889 INFO: WebToursBaseClass started. Host: http://localhost:1080
+2025-09-09 14:56:08,080 INFO: WebToursBaseClass started. Host: http://localhost:1080
